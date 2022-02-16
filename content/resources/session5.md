@@ -3,8 +3,13 @@ content_type: resource
 description: This resource discusses radon concentrations in caves, radon concentrations
   in pyramids, radon concentrations in tunnel drilling and radon concentrations in
   landed buildings and high rises.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/f3e7ff6480ff1d9b4fa5e4249501e5d4_session5.pdf
+file: /media/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/f3e7ff6480ff1d9b4fa5e4249501e5d4_session5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session5.pdf
 uid: f3e7ff64-80ff-1d9b-4fa5-e4249501e5d4
