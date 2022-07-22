@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section contains assignments on List/locate uranium, thorium and
+  actinium series in the periodic table, radon dose from ceramic tiles, radon dose
+  from clay bricks and Radon emanation of building material.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5669c741-9715-b9ee-d5d5-6402bddb0048
 ---

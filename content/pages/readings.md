@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains readings for this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: adf42ca4-57c0-c75c-b2f5-a0b8c7df2eaf
 ---
@@ -40,9 +44,9 @@ Kovler, K. "Radon Exhalation of Hardening Concrete: Monitoring Cement Hydration 
 
 Leonard, B. "Radioisotope Deposition on Interior Building Surfaces: Air Flow and Surface Roughness Influences." _Nuclear Technology_ 152, no. 3 (December 2005): 339-353.
 
-Lopez, F. O., and A. C. Canoba. "Passive Method for the Determination of the Equilibrium Factor Between 222 Rn Gas and its Short Period Progeny." ._Journal of Radioanal and Nucl Chem_ 258, no. 2 (November 2003): 269-74.
+Lopez, F. O., and A. C. Canoba. "Passive Method for the Determination of the Equilibrium Factor Between {{< sup "222" >}} Rn Gas and its Short Period Progeny." ._Journal of Radioanal and Nucl Chem_ 258, no. 2 (November 2003): 269-74.
 
-Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific Characterization of Soil Radon Potentials." _Project Summary_. Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. \[Electronic resource\] ([PDF](http://purl.access.gpo.gov/GPO/LPS35300))#
+Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific Characterization of Soil Radon Potentials." _Project Summary_. Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. \[Electronic resource\] ([PDF](http://purl.access.gpo.gov/GPO/LPS35300)){{< sup "#" >}}
 
 Rabi, J. A., and N. C. Da Silva. "Radon Exhalation from Phosphogypsum Building Boards: Symmetry Constraints, Impermeable Boundary Conditions and Numerical Simulation of a Test Case." _Journal of Environmental Radioactivity_ 86, no. 2 (2006): 164-175.
 
@@ -164,7 +168,7 @@ United Nations Scientific Committee on the Effects of Atomic Radiation (UNSCEAR)
 
 U.S. EPA: U.S. Environmental Protection Agency, Radon - A Physician's Guide: The Health Threat With A Simple Solution U.S. Environmental Protection Agency Office of Air and Radiation (6609J) EPA Document #402-K-93-008 September 1993.
 
-Clemente, G. F., A. Renzetti, G. Santori, F. Steinhausler, and J. Pohl-Ruling. "Relationship Between the 210 Pb Content of Teeth and Exposure to Rn and Rn Daughters." _Health Physics_ 47, no. 2 (August 1984): 253-262.
+Clemente, G. F., A. Renzetti, G. Santori, F. Steinhausler, and J. Pohl-Ruling. "Relationship Between the {{< sup "210" >}} Pb Content of Teeth and Exposure to Rn and Rn Daughters." _Health Physics_ 47, no. 2 (August 1984): 253-262.
 
 Cohen, B. L. "Testing a BEIR-VI Suggestion for Explaining the Lung Cancer versus Radon Relationship for U.S. Counties." _Health Physics_ 78, no. 5 (May 2000): 522-527.
 
@@ -184,7 +188,7 @@ Jaggi, J. S., S. V. Seshan, M. R. McDevitt, G. Sgouros, E. Hyjek, and D. A. Sche
 
 Krewski, D., et al. "A Combined Analysis of North American Case-control Studies of Residential Radon and Lung Cancer." _Journal of Toxicology and Environmental Health Part A_ 69 (2006): 533-597.
 
-Mahesh, H. M., D. N. Avadhani, N. Karunakara, H. M. Somashekarappa, Y. Narayana, and K. Siddappa. "222 Rn Concentration in Ground Waters of Coastal Karnataka and Kaiga of South West coast of India." _Health Physics_ 81, no. 6 (December 2001): 724-728.
+Mahesh, H. M., D. N. Avadhani, N. Karunakara, H. M. Somashekarappa, Y. Narayana, and K. Siddappa. "{{< sup "222" >}} Rn Concentration in Ground Waters of Coastal Karnataka and Kaiga of South West coast of India." _Health Physics_ 81, no. 6 (December 2001): 724-728.
 
 Mitsunobu, F., K. Yamaoka, K. Hanamoto, S. Kojima, Y. Hosaki, K. Ashida, K. Sugita, and Y. Tanizaki. "Elevation of Antioxidant Enzymes in the Clinical Effects of Radon and Thermal Therapy for Bronchial Asthma." _J Radiat Res (Tokyo)_ 44, no. 2 (June 2003): 95-9.
 
@@ -218,7 +222,7 @@ Student Presentation - Radon Research in Radiation Health Physics and Planetary 
 
 Duenas, C., M. C. Fernandez, and S. Canete. "Rn Concentrations and the Radiation Exposure Levels in the Nerja Cave." _Radiation Measurements_ 40, nos. 2-6 (November 2005): 630-2.
 
-Espinosa, G., J. I. Golzarri, T. Martinez, M. Navarrete, J. Bogard, G. Martinez, and F. Juarez. "Indoor 220 Rn and 222Rn Concentration Measurements Inside the Teotihuacan Pyramids Using NTD and E-PERM Methodologies." _Radiation Measurements_ 40, nos. 2-6 (November 2005): 646-9.
+Espinosa, G., J. I. Golzarri, T. Martinez, M. Navarrete, J. Bogard, G. Martinez, and F. Juarez. "Indoor {{< sup "220" >}} Rn and 222Rn Concentration Measurements Inside the Teotihuacan Pyramids Using NTD and E-PERM Methodologies." _Radiation Measurements_ 40, nos. 2-6 (November 2005): 646-9.
 
 Gillmore, G. K., P. S. Phillips, A. R. Denman, and D. D. Gilbertson. "Radon in the Creswell Crags Permian Limestone Caves." _Journal of Environmental Radioactivity_ 62, no. 2 (2002): 165-179.
 
@@ -230,7 +234,7 @@ Lario, J., S. Sanchez-Moral, J. C. Canaveras, S. Cuezva, and V. Soler. "Radon Co
 
 Leela, P., P. Jagam, P. Neelaprasad, and P. Ila. "The Economics of Radon as a Public Health Hazard." Abstract No: 109, pp. 226., "International Conference on Radiation Biology and 5th LOWRAD (Low Radiation)," "International Conference on LOW Dose Radiation Effects on Human Health." (November 20-22, 2006.) _Indian Journal of Radiation Research_ 3, no. 4 (2006): 226.
 
-Leung, J. K. C., M. Y. W. Tso, and C. W. Ho. "Behavior of 222 Rn and its Progeny in High-rise Buildings." _Health Physics_ 75, no. 3 (September 1998): 303-12.
+Leung, J. K. C., M. Y. W. Tso, and C. W. Ho. "Behavior of {{< sup "222" >}} Rn and its Progeny in High-rise Buildings." _Health Physics_ 75, no. 3 (September 1998): 303-12.
 
 ———. "Radon Action Level for High-rise Buildings." _Health Physics_ 76, no. 5 (1999): 537-543.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture notes for this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f2cf3e04-9688-f12f-3911-a160be08bab0
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Radon and Radiation Physics Review ([PDF]({{< baseurl >}}/resources/session1))
+Radon and Radiation Physics Review ({{% resource_link 24b75a57-84b5-040e-00d8-0026c0b397a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Radon and Radiation Physics Review ([PDF]({{< baseurl >}}/resources/session1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Radon and Geology ([PDF]({{< baseurl >}}/resources/session2))
+Radon and Geology ({{% resource_link 8d7c26cd-5ba9-6d73-731c-8438633a8174 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Radon and Geology ([PDF]({{< baseurl >}}/resources/session2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Radon and Radiation Biology ([PDF]({{< baseurl >}}/resources/session3))
+Radon and Radiation Biology ({{% resource_link 09402335-5ffb-1087-4475-60ee1b92b55d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Radon and Radiation Biology ([PDF]({{< baseurl >}}/resources/session3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Radon Research in Medicine ([PDF]({{< baseurl >}}/resources/session4))
+Radon Research in Medicine ({{% resource_link c5b04bed-70d2-da2f-fdfd-621822674d6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Radon Research in Medicine ([PDF]({{< baseurl >}}/resources/session4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Student Presentation - Radon Research in Radiation Health Physics and Planetary Science; Summary - Lab Demonstration ([PDF]({{< baseurl >}}/resources/session5))
+Student Presentation - Radon Research in Radiation Health Physics and Planetary Science; Summary - Lab Demonstration ({{% resource_link f3e7ff64-80ff-1d9b-4fa5-e4249501e5d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
