@@ -7,6 +7,7 @@ file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: session5.pdf
 uid: f3e7ff64-80ff-1d9b-4fa5-e4249501e5d4
 ---
 This resource discusses radon concentrations in caves, radon concentrations in pyramids, radon concentrations in tunnel drilling and radon concentrations in landed buildings and high rises.
-

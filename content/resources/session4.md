@@ -7,6 +7,7 @@ file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: session4.pdf
 uid: c5b04bed-70d2-da2f-fdfd-621822674d6d
 ---
 This resource discusses radon, an internal alpha radiation source and radon in the environment contributes to about half of total background exposure of a person amounting to about.
-

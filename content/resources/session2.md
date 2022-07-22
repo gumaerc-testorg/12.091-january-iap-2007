@@ -6,6 +6,7 @@ file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session2.pdf
 uid: 8d7c26cd-5ba9-6d73-731c-8438633a8174
 ---
 This resource discusses radon geology, some examples of current radon research in rocks and soils, uranium: the source and uranium ? the parent.
-
