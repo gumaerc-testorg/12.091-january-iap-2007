@@ -3,6 +3,7 @@ content_type: resource
 description: 'A student project presentation covering the following topics: introduction,
   how to measure radiation? radiation in zircon tile and clay bricks.'
 file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/e27489ff92aa498fa31621d5c598d629_presentation.pdf
+file_size: 54361
 file_type: application/pdf
 learning_resource_types:
 - Projects
