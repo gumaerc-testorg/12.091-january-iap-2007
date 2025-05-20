@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource discusses radon geology, some examples of current radon
   research in rocks and soils, uranium: the source and uranium ? the parent.'
-file: /ol-ocw-studio-app/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/8d7c26cd5ba96d73731c8438633a8174_session2.pdf
+file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/8d7c26cd5ba96d73731c8438633a8174_session2.pdf
 file_size: 577346
 file_type: application/pdf
 learning_resource_types:
