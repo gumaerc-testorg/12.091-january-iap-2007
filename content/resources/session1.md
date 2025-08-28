@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses radon research in multi disciplines, course outline
   and detailed course work.
-file: /courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/24b75a5784b5040e00d80026c0b397a9_session1.pdf
+file: /ol-ocw-studio-app/courses/12-091-radon-research-in-multidisciplines-a-review-january-iap-2007/24b75a5784b5040e00d80026c0b397a9_session1.pdf
 file_size: 992722
 file_type: application/pdf
 learning_resource_types:
