@@ -46,7 +46,7 @@ Leonard, B. "Radioisotope Deposition on Interior Building Surfaces: Air Flow and
 
 Lopez, F. O., and A. C. Canoba. "Passive Method for the Determination of the Equilibrium Factor Between {{< sup "222" >}} Rn Gas and its Short Period Progeny." ._Journal of Radioanal and Nucl Chem_ 258, no. 2 (November 2003): 269-74.
 
-Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific Characterization of Soil Radon Potentials." _Project Summary_. Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. \[Electronic resource\] ([PDF](http://purl.access.gpo.gov/GPO/LPS35300)){{< sup "#" >}}
+Nielson, K. K., R. B. Holt, and V. C. Rogers. "Site-specific Characterization of Soil Radon Potentials." _Project Summary_. Cincinnati, OH: United States Environmental Protection Agency, Research and Development, National Risk Management Research Laboratory, 1996. \[Electronic resource\] ({{% resource_link "8b84216f-2122-4b28-af21-8a96a36cdd83" "PDF" %}}){{< sup "#" >}}
 
 Rabi, J. A., and N. C. Da Silva. "Radon Exhalation from Phosphogypsum Building Boards: Symmetry Constraints, Impermeable Boundary Conditions and Numerical Simulation of a Test Case." _Journal of Environmental Radioactivity_ 86, no. 2 (2006): 164-175.
 
@@ -86,7 +86,7 @@ Kraner, H. W., G. L. Schroeder, and R. D. Evans. "Measurements of the Effects of
 
 Nazaroff, W. W. "Radon Transport from Soil to Air." _Reviews of Geophysics_ 30, no. 2 (1992): 137-160.
 
-Otton, J. K., L. C. S. Gundersen, and R. R. Schumann. [The Geology of Radon](http://energy.cr.usgs.gov/radon/georadon/3.html), [Radon in Earth, Air, and Water](http://energy.cr.usgs.gov/radon/radonhome.html).
+Otton, J. K., L. C. S. Gundersen, and R. R. Schumann. {{% resource_link "8a532443-43c2-488f-9f5c-636ac46f2e96" "The Geology of Radon" %}}, {{% resource_link "e7372f1b-a54d-4f7e-aa05-f13ae18e0ed0" "Radon in Earth, Air, and Water" %}}.
 
 Segovia, N., M. A. Armienta, C. Valdes, M. Mena, J. L. Seidel, M. Monnin, P. Pena, M. B. E. Lopez, and A. V. Reyes. "Volcanic Monitoring for Radon and Chemical Species in the Soil and in Spring Water Samples." _Radiation Measurements_ 36, nos. 1-6 (September 2003): 379-83.
 
